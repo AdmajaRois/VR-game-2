@@ -25,7 +25,7 @@ public class ChangeColor : MonoBehaviour
     }
 
     public void Putih(){
-        GetComponent<Renderer>().material.color = Color.white;
+        GetComponent<Renderer>().material.color = Color.cream;
     }
   
 }
